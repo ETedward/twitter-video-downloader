@@ -5,7 +5,7 @@ Twitter-videos-downloader deals with high quantities of video downloads at the s
 ## Purpose
 
 The purpose of twitter-videos-downloader is to aid the BBC Africa Eye investigations team in collecting open source materials. For years, the open source 
-team has working with high quantities first person video sources from Twitter. For example,
+team has worked with high quantities first person video sources from Twitter. For example
 in "Three Killings in Kampala" over 400 videos were downloaded for the investigation. The previous methodology
 was to download each video one by one from Twitter. Instead, this program allows investigators to 
 download hundreds of twitter videos from their URLs at once, saving valuable time for our open source team.
@@ -37,5 +37,5 @@ Instead of a random string, the output video file name now follows the form of
 
 Contributions are always welcome. 
 For additional features and any questions on usage, you can contact 
-Edward (Twitter @edward_the6 ; Github @ETedward)
+Edward on Twitter @edward_the6 or Github @ETedward
 
