@@ -4,8 +4,8 @@ Twitter-videos-downloader deals with high quantities of video downloads at the s
 
 ## Purpose
 
-The purpose of twitter-videos-downloader is to aid the BBC Africa Eye investigations team in collecting open source materials. For years, we have 
-been working with high quantities first person video sources from Twitter in our documentaries. For example,
+The purpose of twitter-videos-downloader is to aid the BBC Africa Eye investigations team in collecting open source materials. For years, the open source 
+team has working with high quantities first person video sources from Twitter. For example,
 in "Three Killings in Kampala" over 400 videos were downloaded for the investigation. The previous methodology
 was to download each video one by one from Twitter. Instead, this program allows investigators to 
 download hundreds of twitter videos from their URLs at once, saving valuable time for our open source team.
@@ -18,9 +18,9 @@ Then install the following two requirements for the python program:
 2) os // operating system, should be installed already in most systems.
 Both of these packages can be installed with pip
 
-## usage
+## Usage
 
-This program is built and meant for all investigators, including non-technical investigators to use!
+This program usage is simple and meant for all investigators, including non-technical investigators to use!
 
 
 After installation, first download all the files in this github repository.
@@ -31,8 +31,11 @@ on your python version.
 
 ## Additional Features
 As requested, the output names of the downloaded videos file now correspond
-to the row the video URL was in the input.csv file.
-Instead of random string, the output video file name now follows the form of 
+to the row of the video URL in the input.csv file.
+Instead of a random string, the output video file name now follows the form of 
 "E" + the incrementing row number + "_" + the date the video was uploaded to twitter.
-Contact @edward_the6 for additional features are any questions for the program usage.
-Contributions are always welcome.
+
+Contributions are always welcome. 
+For additional features and any questions on usage, you can contact 
+Edward (Twitter @edward_the6 ; Github @ETedward)
+
