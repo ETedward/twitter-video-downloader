@@ -12,7 +12,7 @@ download hundreds of twitter videos from their URLs at once, saving valuable tim
 
 ## Installation
 
-First use the package manager [pip](https://pip.pypa.io/en/stable/) to install youtube-dl such that it is available to be called in the command line.
+First use the package manager [pip](https://pip.pypa.io/en/stable/) to install [youtube-dl](https://youtube-dl.org/) such that it is available to be called in the command line.
 Then install the following two requirements for the python program: 
 1) pandas // a data analytics library
 2) os // operating system, should be installed already in most systems.
